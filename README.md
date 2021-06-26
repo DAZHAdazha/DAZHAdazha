@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAZHAdazha&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAZHAdazha&bg_color=DEG,#fcba03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAZHAdazha&bg_color=DEG,#fcba03,#ffaa03)](https://github.com/anuraghazra/github-readme-stats)
