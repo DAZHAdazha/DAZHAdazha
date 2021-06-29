@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/DAZHA-大渣-da282a)
 
+![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDAZHAdazha)
 
 <!--
 **DAZHAdazha/DAZHAdazha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
