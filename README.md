@@ -1,5 +1,9 @@
 ### Hi, DAZHA is here 👋
 🌱 I’m currently learning Unity
+
+https://img.shields.io/badge/DAZHA-大渣-da282a
+
+
 <!--
 **DAZHAdazha/DAZHAdazha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
