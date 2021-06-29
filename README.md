@@ -1,7 +1,7 @@
 ### Hi, DAZHA is here 👋
 🌱 I’m currently learning Unity
 
-https://img.shields.io/badge/DAZHA-大渣-da282a
+![https://img.shields.io/badge/DAZHA-大渣-da282a]
 
 
 <!--
