@@ -1,7 +1,7 @@
 ### Hi, DAZHA is here 👋
 🌱 I’m currently learning Unity
 
-🔭 I’m currently working on my Unity 2D game
+🔭 I’m currently working on my Final Project, an Yolov5 based Flask website.
 
 📫 How to reach me: 758343984@qq.com
 
