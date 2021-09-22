@@ -1,5 +1,5 @@
 ### Hi, DAZHA is here 👋
-🌱 I’m currently learning Unity
+🌱 I’m currently learning Yolov5
 
 🔭 I’m currently working on my Final Project, an Yolov5 based Flask website.
 
