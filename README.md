@@ -1,7 +1,7 @@
 ### Hi, DAZHA is here 👋
-🌱 I’m currently learning Yolov5
+🌱 I’m currently learning AWS
 
-🔭 I’m currently working on my Final Project, an Yolov5 based Flask website.
+🔭 I’m currently working on my internship.
 
 📫 How to reach me: 758343984@qq.com
 
