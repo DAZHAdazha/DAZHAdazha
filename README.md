@@ -1,7 +1,4 @@
 ### Hi, DAZHA is here 👋
-🌱 I’m currently learning AWS
-
-🔭 I’m currently working on my internship.
 
 📫 How to reach me: 758343984@qq.com
 
